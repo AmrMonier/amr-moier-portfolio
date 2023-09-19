@@ -1,0 +1,68 @@
+{
+    "profile": {
+        "name": "Amr Monier",
+        "positions": ["Software Engineer", "Junior Backend Developer", "Backend Developer", "PL/SQL Developer"],
+        "socialLinks": {
+            "linkedin": "Amr Monier",
+            "github": "Amr Monier",
+            "twitter": ""
+        },
+        "birthDate": "09.06.1998",
+        "phone": "+201027200070",
+        "email": "iam@amrmonier.com",
+        "address": "Shoubra, Qalubia, Egypt",
+        "bio": "Self-taught software engineer with experience building LMS and Marketing platforms. Curious to learn new technologies and enjoys solving code challenges and problems."
+    },
+    "services": [
+        {
+            "title": "",
+            "icon":""
+        }
+    ],
+    "testimonials": [{
+        "name": "",
+        "position": "",
+        "message": ""
+    }],
+    "workHistory": [
+        {
+            "companyName": "Contact Financial Holding, Cairo",
+            "from": "January 2023",
+            "to": "Present",
+            "position": "Software Engineer",
+            "brief": "Designing, developing, and testing the REST-APIs. Maintaining and improving multiple legacy code bases. Providing new features for mobile apps. Mentoring junior developers."
+        },
+        {
+            "companyName": "Eduact, Giza",
+            "from": "February 2022",
+            "to": "November 2022",
+            "position": "Junior Backend Developer",
+            "brief": "Creating and managing project plans. Coding software changes based on specifications. Providing industry-leading solutions. Developing a fully functioning exams module."
+        },
+        {
+            "companyName": "Independent contractor, Cairo",
+            "from": "January 2022",
+            "to": "May 2022",
+            "position": "Backend Developer",
+            "brief": "Built a survey platform with a reward system."
+        },
+        {
+            "companyName": "Ministry of Defense, Cairo",
+            "from": "December 2020",
+            "to": "December 2021",
+            "position": "PL/SQL Developer",
+            "brief": "Developing PL/SQL scripts for automation. Refactoring legacy code. Developing procedures and functions in the database layer."
+        }
+    ],
+    "education": [
+        {
+            "school": "Ain Shams University in Cairo, Cairo",
+            "from": "September 2016",
+            "to": "July 2020",
+            "brief": "Bsc. of Computer Science with a GPA of 3.0"
+        }
+    ],
+    "skills": [
+        "JavaScript", "TypeScript", "Nodejs", "AdonisJs", "NestJs", "ExpressJs", "MySQL", "PostgreSQL", "Git", "REST APIs", "CI/CD", "PHP", "Laravel", "VueJs", "Docker", "AWS", "Oracle Database", "MongoDB", "Microservices", "Angular", "Python", "C++"
+    ]
+}
